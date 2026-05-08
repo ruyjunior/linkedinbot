@@ -1,0 +1,9 @@
+2026-04-18 15:25:07,851 [INFO] ============================================================
+2026-04-18 15:25:07,851 [INFO] Bot iniciado — 18/04/2026 15:25
+2026-04-18 15:25:07,852 [INFO] Palavras-chave: ['TypeScript', 'desenvolvedor']
+2026-04-18 15:25:07,853 [INFO] Limite: 10 candidaturas
+2026-04-18 15:25:07,853 [INFO] ============================================================
+2026-04-18 15:25:07,853 [INFO] ====== WebDriver manager ======
+2026-04-18 15:25:08,851 [INFO] Get LATEST chromedriver version for google-chrome
+2026-04-18 15:25:09,260 [INFO] Get LATEST chromedriver version for google-chrome
+2026-04-18 15:25:09,683 [INFO] Driver [C:\Users\ruyju\.wdm\drivers\chromedriver\win64\147.0.7727.57\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache

@@ -1,0 +1,18 @@
+2026-04-19 20:03:57,636 [INFO] ============================================================
+2026-04-19 20:03:57,636 [INFO] Bot iniciado — 19/04/2026 20:03
+2026-04-19 20:03:57,636 [INFO] Palavras-chave: ['desenvolvedor', 'typescript', 'junior', 'react', 'node', 'nextjs']
+2026-04-19 20:03:57,636 [INFO] Limite: 10 candidaturas
+2026-04-19 20:03:57,636 [INFO] ============================================================
+2026-04-19 20:03:57,644 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-19 20:03:59,304 [INFO] Verificando sessão no LinkedIn...
+2026-04-19 20:04:06,599 [INFO] Sessão ativa — login não necessário.
+2026-04-19 20:04:06,600 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=desenvolvedor&location=Brazil&f_AL=true&f_TPR=r604800&sortBy=DD&start=0
+2026-04-19 20:04:20,558 [INFO] 25 cards na lista. Verificando Easy Apply em cada um...
+2026-04-19 20:04:22,067 [INFO]   Pulando (irrelevante): PRESENCIAL ALPHAVILLE SP HUNTER B2B Gerente Desenvolvimento de Novos Negocios Telecom e TI @ K2A Technology Solutions
+2026-04-19 20:04:58,286 [INFO] 0 vagas com Easy Apply confirmado.
+2026-04-19 20:04:58,287 [WARNING] Nenhuma vaga com Easy Apply.
+  Dica 1: mude date_filter para 'semana' no config.json
+  Dica 2: tente keywords: ['TypeScript', 'React', 'frontend']
+  Dica 3: tente location: 'Sao Paulo' ou 'Remote'
+2026-04-19 20:04:58,287 [WARNING] Nenhuma vaga encontrada. Encerrando.
+2026-04-19 20:05:00,851 [INFO] Navegador fechado.

@@ -1,0 +1,12 @@
+2026-04-18 15:30:02,198 [INFO] ============================================================
+2026-04-18 15:30:02,199 [INFO] Bot iniciado — 18/04/2026 15:30
+2026-04-18 15:30:02,199 [INFO] Palavras-chave: ['TypeScript', 'desenvolvedor', 'frontend']
+2026-04-18 15:30:02,199 [INFO] Limite: 10 candidaturas
+2026-04-18 15:30:02,200 [INFO] ============================================================
+2026-04-18 15:30:02,476 [INFO] Baixando ChromeDriver win64 v147.0.7681.0...
+2026-04-18 15:30:03,426 [INFO] ChromeDriver extraído: C:\Users\ruyju/.wdm/drivers/chromedriver/win64/147\chromedriver.exe
+2026-04-18 15:30:04,796 [INFO] Fazendo login...
+2026-04-18 15:30:16,698 [WARNING] LinkedIn pediu verificação! Resolva manualmente na janela aberta.
+2026-04-18 15:32:35,598 [ERROR] Falha no login. URL atual: https://www.linkedin.com/checkpoint/lg/login-submit
+2026-04-18 15:32:35,599 [ERROR] Login falhou. Encerrando.
+2026-04-18 15:32:39,372 [INFO] Navegador fechado.

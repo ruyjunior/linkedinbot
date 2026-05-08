@@ -1,0 +1,253 @@
+2026-04-19 19:34:01,530 [INFO] ============================================================
+2026-04-19 19:34:01,531 [INFO] Bot iniciado — 19/04/2026 19:34
+2026-04-19 19:34:01,531 [INFO] Palavras-chave: ['TypeScript', 'developer', 'desenvolvedor', 'programador', 'engenheiro de software', 'junior', 'react', 'node', 'fullstack', 'frontend', 'backend', 'remote']
+2026-04-19 19:34:01,531 [INFO] Limite: 10 candidaturas
+2026-04-19 19:34:01,532 [INFO] ============================================================
+2026-04-19 19:34:01,539 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-19 19:34:03,011 [INFO] Verificando sessão no LinkedIn...
+2026-04-19 19:34:09,518 [INFO] Sessão ativa — login não necessário.
+2026-04-19 19:34:09,518 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=TypeScript+developer+desenvolvedor+programador+engenheiro+de+software+junior+react+node+fullstack+frontend+backend+remote&location=Brazil&f_AL=true&f_TPR=r86400&sortBy=DD&start=0
+2026-04-19 19:34:24,308 [INFO] 3 cards na lista. Verificando Easy Apply em cada um...
+2026-04-19 19:34:26,220 [INFO]   Easy Apply confirmado: Desenvolvedor Integrador RM x Java @ SS Service & Softwares
+2026-04-19 19:34:29,247 [INFO] 1 vagas com Easy Apply confirmado.
+2026-04-19 19:34:29,247 [INFO] Candidatando: Desenvolvedor Integrador RM x Java @ SS Service & Softwares
+2026-04-19 19:34:34,892 [INFO]   -- Etapa 1 --
+2026-04-19 19:34:35,130 [INFO]     Select "Email address
+Email address" — opções: ['Select an option', 'ruyjunior21@gmail.com']
+2026-04-19 19:34:38,894 [INFO]     Select "Phone country code
+Phone country code" — opções: ['Select an option', 'Brazil (+55)', 'Afghanistan (+93)', 'Albania (+355)', 'Algeria (+213)', 'American Samoa (+1)', 'Andorra (+376)', 'Angola (+244)', 'Anguilla (+1)', 'Antarctica (+0)', 'Antigua & Barbuda (+1)', 'Argentina (+54)', 'Armenia (+374)', 'Aruba (+297)', 'Australia (+61)', 'Austria (+43)', 'Azerbaijan (+994)', 'Bahamas (+1)', 'Bahrain (+973)', 'Bangladesh (+880)', 'Barbados (+1)', 'Belarus (+375)', 'Belgium (+32)', 'Belize (+501)', 'Benin (+229)', 'Bermuda (+1)', 'Bhutan (+975)', 'Bolivia (+591)', 'Bosnia & Herzegovina (+387)', 'Botswana (+267)', 'Bouvet Island (+0)', 'British Indian Ocean Territory (+246)', 'British Virgin Islands (+1)', 'Brunei (+673)', 'Bulgaria (+359)', 'Burkina Faso (+226)', 'Burundi (+257)', 'Cambodia (+855)', 'Cameroon (+237)', 'Canada (+1)', 'Cape Verde (+238)', 'Caribbean Netherlands (+599)', 'Cayman Islands (+1)', 'Central African Republic (+236)', 'Chad (+235)', 'Chile (+56)', 'China (+86)', 'Christmas Island (+61)', 'Cocos (Keeling) Islands (+61)', 'Colombia (+57)', 'Comoros (+269)', 'Congo - Brazzaville (+242)', 'Congo - Kinshasa (+243)', 'Cook Islands (+682)', 'Costa Rica (+506)', 'Croatia (+385)', 'Cuba (+53)', 'Curaçao (+599)', 'Cyprus (+357)', 'Czechia (+420)', 'Côte d’Ivoire (+225)', 'Denmark (+45)', 'Djibouti (+253)', 'Dominica (+1)', 'Dominican Republic (+1)', 'Ecuador (+593)', 'Egypt (+20)', 'El Salvador (+503)', 'Equatorial Guinea (+240)', 'Eritrea (+291)', 'Estonia (+372)', 'Eswatini (+268)', 'Ethiopia (+251)', 'Falkland Islands (+500)', 'Faroe Islands (+298)', 'Fiji (+679)', 'Finland (+358)', 'France (+33)', 'French Guiana (+594)', 'French Polynesia (+689)', 'French Southern Territories (+0)', 'Gabon (+241)', 'Gambia (+220)', 'Georgia (+995)', 'Germany (+49)', 'Ghana (+233)', 'Gibraltar (+350)', 'Greece (+30)', 'Greenland (+299)', 'Grenada (+1)', 'Guadeloupe (+590)', 'Guam (+1)', 'Guatemala (+502)', 'Guernsey (+44)', 'Guinea (+224)', 'Guinea-Bissau (+245)', 'Guyana (+592)', 'Haiti (+509)', 'Heard & McDonald Islands (+0)', 'Honduras (+504)', 'Hong Kong SAR China (+852)', 'Hungary (+36)', 'Iceland (+354)', 'India (+91)', 'Indonesia (+62)', 'Iran (+98)', 'Iraq (+964)', 'Ireland (+353)', 'Isle of Man (+44)', 'Israel (+972)', 'Italy (+39)', 'Jamaica (+1)', 'Japan (+81)', 'Jersey (+44)', 'Jordan (+962)', 'Kazakhstan (+7)', 'Kenya (+254)', 'Kiribati (+686)', 'Kuwait (+965)', 'Kyrgyzstan (+996)', 'Laos (+856)', 'Latvia (+371)', 'Lebanon (+961)', 'Lesotho (+266)', 'Liberia (+231)', 'Libya (+218)', 'Liechtenstein (+423)', 'Lithuania (+370)', 'Luxembourg (+352)', 'Macao SAR China (+853)', 'Madagascar (+261)', 'Malawi (+265)', 'Malaysia (+60)', 'Maldives (+960)', 'Mali (+223)', 'Malta (+356)', 'Marshall Islands (+692)', 'Martinique (+596)', 'Mauritania (+222)', 'Mauritius (+230)', 'Mayotte (+262)', 'Mexico (+52)', 'Micronesia (+691)', 'Moldova (+373)', 'Monaco (+377)', 'Mongolia (+976)', 'Montenegro (+382)', 'Montserrat (+1)', 'Morocco (+212)', 'Mozambique (+258)', 'Myanmar (Burma) (+95)', 'Namibia (+264)', 'Nauru (+674)', 'Nepal (+977)', 'Netherlands (+31)', 'New Caledonia (+687)', 'New Zealand (+64)', 'Nicaragua (+505)', 'Niger (+227)', 'Nigeria (+234)', 'Niue (+683)', 'Norfolk Island (+672)', 'North Korea (+850)', 'North Macedonia (+389)', 'Northern Mariana Islands (+1)', 'Norway (+47)', 'Oman (+968)', 'Pakistan (+92)', 'Palau (+680)', 'Palestinian Territories (+970)', 'Panama (+507)', 'Papua New Guinea (+675)', 'Paraguay (+595)', 'Peru (+51)', 'Philippines (+63)', 'Pitcairn Islands (+0)', 'Poland (+48)', 'Portugal (+351)', 'Puerto Rico (+1)', 'Qatar (+974)', 'Romania (+40)', 'Russia (+7)', 'Rwanda (+250)', 'Réunion (+262)', 'Samoa (+685)', 'San Marino (+378)', 'Saudi Arabia (+966)', 'Senegal (+221)', 'Serbia (+381)', 'Seychelles (+248)', 'Sierra Leone (+232)', 'Singapore (+65)', 'Sint Maarten (+1)', 'Slovakia (+421)', 'Slovenia (+386)', 'Solomon Islands (+677)', 'Somalia (+252)', 'South Africa (+27)', 'South Georgia & South Sandwich Islands (+0)', 'South Korea (+82)', 'South Sudan (+211)', 'Spain (+34)', 'Sri Lanka (+94)', 'St. Barthélemy (+590)', 'St. Helena (+290)', 'St. Kitts & Nevis (+1)', 'St. Lucia (+1)', 'St. Martin (+590)', 'St. Pierre & Miquelon (+508)', 'St. Vincent & Grenadines (+1)', 'Sudan (+249)', 'Suriname (+597)', 'Svalbard & Jan Mayen (+47)', 'Sweden (+46)', 'Switzerland (+41)', 'Syria (+963)', 'São Tomé & Príncipe (+239)', 'Taiwan (+886)', 'Tajikistan (+992)', 'Tanzania (+255)', 'Thailand (+66)', 'Timor-Leste (+670)', 'Togo (+228)', 'Tokelau (+690)', 'Tonga (+676)', 'Trinidad & Tobago (+1)', 'Tunisia (+216)', 'Turkey (+90)', 'Turkmenistan (+993)', 'Turks & Caicos Islands (+1)', 'Tuvalu (+688)', 'U.S. Outlying Islands (+0)', 'U.S. Virgin Islands (+1)', 'Uganda (+256)', 'Ukraine (+380)', 'United Arab Emirates (+971)', 'United Kingdom (+44)', 'United States (+1)', 'Uruguay (+598)', 'Uzbekistan (+998)', 'Vanuatu (+678)', 'Vatican City (+39)', 'Venezuela (+58)', 'Vietnam (+84)', 'Wallis & Futuna (+681)', 'Western Sahara (+212)', 'Yemen (+967)', 'Zambia (+260)', 'Åland Islands (+358)', 'Zimbabwe (+263)']
+2026-04-19 19:34:40,717 [WARNING]     Select "Phone country code
+Phone country code": "+55 51 99227-4105" não encontrada — selecionando primeira opção
+2026-04-19 19:34:43,493 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:34:43,956 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:34:45,718 [INFO]   -- Etapa 2 --
+2026-04-19 19:34:45,833 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:34:46,440 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:34:48,137 [INFO]   -- Etapa 3 --
+2026-04-19 19:34:48,352 [INFO]     Campo "How many years of hands-on experience do you have working with AWS (EKS, EC2, IAM, S3, etc.)?" → "5"
+2026-04-19 19:34:48,649 [INFO]     Campo "How many years of hands-on experience do you have operating and building Kubernetes clusters in production?" → "5"
+2026-04-19 19:34:48,807 [INFO]     Campo "How many years of experience do you have using Python for automation, scripting, or internal tooling?" → "5"
+2026-04-19 19:34:49,397 [INFO]     Campo "This is a CLT/LFT/LCT/Código de Trabajo Employee Contract. Please enter your gross monthly salary expectation according to your country of residence." → "5000"
+2026-04-19 19:34:49,634 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:34:49,677 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:34:49,866 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:50,026 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:50,053 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:34:50,211 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:50,375 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:50,455 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:34:50,817 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:34:53,035 [INFO]   -- Etapa 4 --
+2026-04-19 19:34:53,343 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:34:53,382 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:34:53,560 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:53,702 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:53,730 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:34:53,891 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:54,044 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:54,120 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:34:54,590 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:34:56,118 [INFO]   -- Etapa 5 --
+2026-04-19 19:34:56,444 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:34:56,492 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:34:56,712 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:56,873 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:56,903 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:34:57,062 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:57,212 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:34:57,355 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:34:57,794 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:34:59,350 [INFO]   -- Etapa 6 --
+2026-04-19 19:34:59,644 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:34:59,682 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:34:59,857 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:00,026 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:00,054 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:00,209 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:00,367 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:00,444 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:00,808 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:02,790 [INFO]   -- Etapa 7 --
+2026-04-19 19:35:03,206 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:03,246 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:03,430 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:03,616 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:03,649 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:03,820 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:03,977 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:04,056 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:04,636 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:07,089 [INFO]   -- Etapa 8 --
+2026-04-19 19:35:07,435 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:07,482 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:07,658 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:07,814 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:07,843 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:07,992 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:08,160 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:08,237 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:08,833 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:11,000 [INFO]   -- Etapa 9 --
+2026-04-19 19:35:11,299 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:11,366 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:11,557 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:11,716 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:11,747 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:11,931 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:12,086 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:12,161 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:12,654 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:14,477 [INFO]   -- Etapa 10 --
+2026-04-19 19:35:14,782 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:14,823 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:14,996 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:15,148 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:15,174 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:15,327 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:15,492 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:15,569 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:16,009 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:17,513 [INFO]   -- Etapa 11 --
+2026-04-19 19:35:17,855 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:17,896 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:18,076 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:18,221 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:18,251 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:18,403 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:18,559 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:18,634 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:19,133 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:21,569 [INFO]   -- Etapa 12 --
+2026-04-19 19:35:21,862 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:21,902 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:22,077 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:22,236 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:22,266 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:22,421 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:22,574 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:22,655 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:23,227 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:25,348 [INFO]   -- Etapa 13 --
+2026-04-19 19:35:25,689 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:25,735 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:25,918 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:26,065 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:26,094 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:26,246 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:26,409 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:26,482 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:26,982 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:29,279 [INFO]   -- Etapa 14 --
+2026-04-19 19:35:29,572 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:29,615 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:29,789 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:29,948 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:29,979 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:30,135 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:30,285 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:30,361 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:30,680 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:32,545 [INFO]   -- Etapa 15 --
+2026-04-19 19:35:32,868 [INFO]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?" — opções: ['Select an option', 'None', 'Conversational', 'Professional', 'Native or bilingual']
+2026-04-19 19:35:32,913 [WARNING]     Select "What is your level of proficiency in English?
+What is your level of proficiency in English?": "Básico" não encontrada — selecionando primeira opção
+2026-04-19 19:35:33,127 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:33,328 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:33,364 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:35:33,572 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:33,748 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:35:33,827 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:35:34,166 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:35:34,166 [WARNING]   Máximo de etapas atingido sem enviar.
+2026-04-19 19:35:46,587 [INFO] Sessão finalizada. Total enviado: 0
+2026-04-19 19:35:48,979 [INFO] Navegador fechado.

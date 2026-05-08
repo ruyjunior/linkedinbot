@@ -1,0 +1,59 @@
+2026-04-18 15:58:41,225 [INFO] ============================================================
+2026-04-18 15:58:41,225 [INFO] Bot iniciado — 18/04/2026 15:58
+2026-04-18 15:58:41,226 [INFO] Palavras-chave: ['TypeScript', 'developer']
+2026-04-18 15:58:41,226 [INFO] Limite: 10 candidaturas
+2026-04-18 15:58:41,226 [INFO] ============================================================
+2026-04-18 15:58:41,227 [INFO] ChromeDriver win64 em cache: C:\Users\ruyju/.wdm/drivers/chromedriver/win64/147\chromedriver.exe
+2026-04-18 15:58:42,432 [INFO] Fazendo login...
+2026-04-18 15:58:58,940 [ERROR] Erro inesperado: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6be79f2a5+14465]
+	chromedriver!GetHandleVerifier [0x7ff6be79f310+144d0]
+	chromedriver!(No symbol) [0x7ff6be50db6d]
+	chromedriver!(No symbol) [0x7ff6be566d7e]
+	chromedriver!(No symbol) [0x7ff6be56708c]
+	chromedriver!(No symbol) [0x7ff6be5b7447]
+	chromedriver!(No symbol) [0x7ff6be5b3fe3]
+	chromedriver!(No symbol) [0x7ff6be5593e8]
+	chromedriver!(No symbol) [0x7ff6be55a2d3]
+	chromedriver!GetHandleVerifier [0x7ff6beaa2f4d+31810d]
+	chromedriver!GetHandleVerifier [0x7ff6bea9d61d+3127dd]
+	chromedriver!GetHandleVerifier [0x7ff6beabffba+33517a]
+	chromedriver!GetHandleVerifier [0x7ff6be7baa65+2fc25]
+	chromedriver!GetHandleVerifier [0x7ff6be7c370c+388cc]
+	chromedriver!GetHandleVerifier [0x7ff6be7a8944+1db04]
+	chromedriver!GetHandleVerifier [0x7ff6be7a8af6+1dcb6]
+	chromedriver!GetHandleVerifier [0x7ff6be78d717+28d7]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0571e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffc06c6c3fc+2c]
+Traceback (most recent call last):
+  File "C:\Users\ruyju\Documents\dev\linkedin_bot\linkedin_bot.py", line 548, in main
+    if not login(driver, config["email"], config["password"]):
+           ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ruyju\Documents\dev\linkedin_bot\linkedin_bot.py", line 181, in login
+    email_field = wait.until(EC.presence_of_element_located((By.ID, "username")))
+  File "C:\Users\ruyju\AppData\Roaming\Python\Python314\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6be79f2a5+14465]
+	chromedriver!GetHandleVerifier [0x7ff6be79f310+144d0]
+	chromedriver!(No symbol) [0x7ff6be50db6d]
+	chromedriver!(No symbol) [0x7ff6be566d7e]
+	chromedriver!(No symbol) [0x7ff6be56708c]
+	chromedriver!(No symbol) [0x7ff6be5b7447]
+	chromedriver!(No symbol) [0x7ff6be5b3fe3]
+	chromedriver!(No symbol) [0x7ff6be5593e8]
+	chromedriver!(No symbol) [0x7ff6be55a2d3]
+	chromedriver!GetHandleVerifier [0x7ff6beaa2f4d+31810d]
+	chromedriver!GetHandleVerifier [0x7ff6bea9d61d+3127dd]
+	chromedriver!GetHandleVerifier [0x7ff6beabffba+33517a]
+	chromedriver!GetHandleVerifier [0x7ff6be7baa65+2fc25]
+	chromedriver!GetHandleVerifier [0x7ff6be7c370c+388cc]
+	chromedriver!GetHandleVerifier [0x7ff6be7a8944+1db04]
+	chromedriver!GetHandleVerifier [0x7ff6be7a8af6+1dcb6]
+	chromedriver!GetHandleVerifier [0x7ff6be78d717+28d7]
+	KERNEL32!BaseThreadInitThunk [0x7ffc0571e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffc06c6c3fc+2c]
+
+2026-04-18 15:59:01,177 [INFO] Navegador fechado.

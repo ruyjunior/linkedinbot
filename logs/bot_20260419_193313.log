@@ -1,0 +1,17 @@
+2026-04-19 19:33:13,017 [INFO] ============================================================
+2026-04-19 19:33:13,018 [INFO] Bot iniciado — 19/04/2026 19:33
+2026-04-19 19:33:13,018 [INFO] Palavras-chave: ['TypeScript', 'developer', 'desenvolvedor', 'programador', 'engenheiro de software', 'junior', 'react', 'node', 'fullstack', 'frontend', 'backend', 'remote']
+2026-04-19 19:33:13,018 [INFO] Limite: 10 candidaturas
+2026-04-19 19:33:13,018 [INFO] ============================================================
+2026-04-19 19:33:13,025 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-19 19:33:14,770 [INFO] Verificando sessão no LinkedIn...
+2026-04-19 19:33:19,976 [INFO] Sessão ativa — login não necessário.
+2026-04-19 19:33:19,976 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=TypeScript+developer+desenvolvedor+programador+engenheiro+de+software+junior+react+node+fullstack+frontend+backend+remote&location=Brazil&f_AL=true&f_TPR=r86400&sortBy=DD&start=0
+2026-04-19 19:33:45,521 [WARNING] Timeout ao carregar vagas. Tente mudar date_filter para 'semana'.
+2026-04-19 19:33:45,522 [INFO] 0 vagas com Easy Apply confirmado.
+2026-04-19 19:33:45,522 [WARNING] Nenhuma vaga com Easy Apply.
+  Dica 1: mude date_filter para 'semana' no config.json
+  Dica 2: tente keywords: ['TypeScript', 'React', 'frontend']
+  Dica 3: tente location: 'Sao Paulo' ou 'Remote'
+2026-04-19 19:33:45,522 [WARNING] Nenhuma vaga encontrada. Encerrando.
+2026-04-19 19:33:48,032 [INFO] Navegador fechado.

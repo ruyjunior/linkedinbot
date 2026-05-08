@@ -1,0 +1,61 @@
+2026-04-19 19:53:03,782 [INFO] ============================================================
+2026-04-19 19:53:03,782 [INFO] Bot iniciado — 19/04/2026 19:53
+2026-04-19 19:53:03,783 [INFO] Palavras-chave: ['typescript', 'programador', 'junior', 'react', 'node', 'remote', 'nextjs']
+2026-04-19 19:53:03,783 [INFO] Limite: 10 candidaturas
+2026-04-19 19:53:03,783 [INFO] ============================================================
+2026-04-19 19:53:03,790 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-19 19:53:05,245 [INFO] Verificando sessão no LinkedIn...
+2026-04-19 19:53:10,962 [INFO] Sessão ativa — login não necessário.
+2026-04-19 19:53:10,963 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=typescript+programador+junior+react+node+remote+nextjs&location=Brazil&f_AL=true&f_TPR=r86400&sortBy=DD&start=0
+2026-04-19 19:53:24,205 [INFO] 18 cards na lista. Verificando Easy Apply em cada um...
+2026-04-19 19:53:25,791 [INFO]   Easy Apply confirmado: First-Person Video AI Trainer (Worldwide) @ Toloka Annotators
+2026-04-19 19:53:51,955 [INFO] 1 vagas com Easy Apply confirmado.
+2026-04-19 19:53:51,955 [INFO] Candidatando: First-Person Video AI Trainer (Worldwide) @ Toloka Annotators
+2026-04-19 19:53:57,639 [INFO]   -- Etapa 1 --
+2026-04-19 19:53:58,044 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:53:58,530 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:00,557 [INFO]   -- Etapa 2 --
+2026-04-19 19:54:00,684 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:01,147 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:03,355 [INFO]   -- Etapa 3 --
+2026-04-19 19:54:03,476 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:03,948 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:05,959 [INFO]   -- Etapa 4 --
+2026-04-19 19:54:06,090 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:06,586 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:08,430 [INFO]   -- Etapa 5 --
+2026-04-19 19:54:08,564 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:09,130 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:11,614 [INFO]   -- Etapa 6 --
+2026-04-19 19:54:11,744 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:12,129 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:13,939 [INFO]   -- Etapa 7 --
+2026-04-19 19:54:14,062 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:14,547 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:16,913 [INFO]   -- Etapa 8 --
+2026-04-19 19:54:17,032 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:17,561 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:19,703 [INFO]   -- Etapa 9 --
+2026-04-19 19:54:19,824 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:20,333 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:22,154 [INFO]   -- Etapa 10 --
+2026-04-19 19:54:22,278 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:22,705 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:24,773 [INFO]   -- Etapa 11 --
+2026-04-19 19:54:24,896 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:25,239 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:26,830 [INFO]   -- Etapa 12 --
+2026-04-19 19:54:26,947 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:27,437 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:29,877 [INFO]   -- Etapa 13 --
+2026-04-19 19:54:29,998 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:30,506 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:32,164 [INFO]   -- Etapa 14 --
+2026-04-19 19:54:32,285 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:32,694 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:34,388 [INFO]   -- Etapa 15 --
+2026-04-19 19:54:34,513 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:54:34,956 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:54:34,957 [WARNING]   Máximo de etapas atingido sem enviar.
+2026-04-19 19:54:42,492 [INFO] Sessão finalizada. Total enviado: 0
+2026-04-19 19:54:44,993 [INFO] Navegador fechado.

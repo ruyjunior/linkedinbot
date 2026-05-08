@@ -1,0 +1,16 @@
+2026-04-18 16:05:24,773 [INFO] ============================================================
+2026-04-18 16:05:24,774 [INFO] Bot iniciado — 18/04/2026 16:05
+2026-04-18 16:05:24,774 [INFO] Palavras-chave: ['TypeScript', 'developer']
+2026-04-18 16:05:24,774 [INFO] Limite: 10 candidaturas
+2026-04-18 16:05:24,775 [INFO] ============================================================
+2026-04-18 16:05:24,775 [INFO] ChromeDriver win64 em cache: C:\Users\ruyju/.wdm/drivers/chromedriver/win64/147\chromedriver.exe
+2026-04-18 16:05:26,051 [INFO] Fazendo login...
+2026-04-18 16:05:42,871 [INFO] Login realizado com sucesso.
+2026-04-18 16:05:42,872 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=TypeScript+developer&location=Brazil&f_AL=true&f_TPR=r604800&sortBy=DD&start=0
+2026-04-18 16:05:58,092 [INFO] 25 cards na lista. Verificando Easy Apply em cada um...
+2026-04-18 16:05:59,450 [INFO]   Easy Apply confirmado: Python Developer @ Höski
+2026-04-18 16:06:35,612 [INFO] 1 vagas com Easy Apply confirmado.
+2026-04-18 16:06:35,612 [INFO] Abrindo: Python Developer @ Höski
+2026-04-18 16:06:50,562 [INFO]   Sem Easy Apply. Pulando: Python Developer
+2026-04-18 16:06:56,659 [INFO] Sessão finalizada. Total enviado: 0
+2026-04-18 16:06:58,967 [INFO] Navegador fechado.

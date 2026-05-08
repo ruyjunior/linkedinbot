@@ -1,0 +1,16 @@
+2026-04-18 15:59:39,233 [INFO] ============================================================
+2026-04-18 15:59:39,233 [INFO] Bot iniciado — 18/04/2026 15:59
+2026-04-18 15:59:39,233 [INFO] Palavras-chave: ['TypeScript', 'developer']
+2026-04-18 15:59:39,233 [INFO] Limite: 10 candidaturas
+2026-04-18 15:59:39,233 [INFO] ============================================================
+2026-04-18 15:59:39,234 [INFO] ChromeDriver win64 em cache: C:\Users\ruyju/.wdm/drivers/chromedriver/win64/147\chromedriver.exe
+2026-04-18 15:59:40,372 [INFO] Fazendo login...
+2026-04-18 15:59:54,765 [INFO] Login realizado com sucesso.
+2026-04-18 15:59:54,765 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=TypeScript+developer&location=Brazil&f_AL=true&f_TPR=r604800&sortBy=DD&start=0
+2026-04-18 16:00:11,167 [INFO] 25 cards na lista. Verificando Easy Apply em cada um...
+2026-04-18 16:00:14,370 [INFO]   Easy Apply confirmado: Graduate Developer @ Joveo Ai
+2026-04-18 16:01:40,282 [INFO] 1 vagas com Easy Apply confirmado.
+2026-04-18 16:01:40,282 [INFO] Abrindo: Graduate Developer @ Joveo Ai
+2026-04-18 16:01:55,467 [INFO]   Sem Easy Apply. Pulando: Graduate Developer
+2026-04-18 16:02:07,275 [INFO] Sessão finalizada. Total enviado: 0
+2026-04-18 16:02:09,601 [INFO] Navegador fechado.

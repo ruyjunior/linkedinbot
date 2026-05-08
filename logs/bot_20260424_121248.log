@@ -1,0 +1,17 @@
+2026-04-24 12:12:48,660 [INFO] ============================================================
+2026-04-24 12:12:48,660 [INFO] Bot iniciado — 24/04/2026 12:12
+2026-04-24 12:12:48,660 [INFO] Palavras-chave: ['desenvolvedor', 'typescript']
+2026-04-24 12:12:48,661 [INFO] Limite: 10 candidaturas
+2026-04-24 12:12:48,661 [INFO] ============================================================
+2026-04-24 12:12:48,686 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-24 12:12:50,413 [INFO] Verificando sessão no LinkedIn...
+2026-04-24 12:13:19,058 [INFO] Sessão ativa — login não necessário.
+2026-04-24 12:13:19,058 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=desenvolvedor&geoId=106057199&f_AL=true&f_TPR=r604800&sortBy=DD&start=0
+2026-04-24 12:13:33,428 [INFO] 25 cards na lista. Filtrando por Easy Apply e relevância...
+2026-04-24 12:13:34,427 [INFO] 0 vagas com Easy Apply confirmado.
+2026-04-24 12:13:34,428 [WARNING] Nenhuma vaga com Easy Apply.
+  Dica 1: mude date_filter para 'semana' no config.json
+  Dica 2: tente keywords: ['TypeScript', 'React', 'frontend']
+  Dica 3: tente location: 'Sao Paulo' ou 'Remote'
+2026-04-24 12:13:34,428 [WARNING] Nenhuma vaga encontrada. Encerrando.
+2026-04-24 12:13:36,863 [INFO] Navegador fechado.

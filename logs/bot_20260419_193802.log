@@ -1,0 +1,40 @@
+2026-04-19 19:38:02,953 [INFO] ============================================================
+2026-04-19 19:38:02,953 [INFO] Bot iniciado — 19/04/2026 19:38
+2026-04-19 19:38:02,953 [INFO] Palavras-chave: ['TypeScript', 'developer', 'desenvolvedor', 'programador', 'engenheiro de software', 'junior', 'react', 'node', 'fullstack', 'frontend', 'backend', 'remote']
+2026-04-19 19:38:02,953 [INFO] Limite: 10 candidaturas
+2026-04-19 19:38:02,953 [INFO] ============================================================
+2026-04-19 19:38:02,960 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-19 19:38:04,435 [INFO] Verificando sessão no LinkedIn...
+2026-04-19 19:38:11,124 [INFO] Sessão ativa — login não necessário.
+2026-04-19 19:38:11,124 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=TypeScript+developer+desenvolvedor+programador+engenheiro+de+software+junior+react+node+fullstack+frontend+backend+remote&location=Brazil&f_AL=true&f_TPR=r86400&sortBy=DD&start=0
+2026-04-19 19:38:25,049 [INFO] 4 cards na lista. Verificando Easy Apply em cada um...
+2026-04-19 19:38:26,454 [INFO]   Easy Apply confirmado: Desenvolvedor Integrador RM x Java @ SS Service & Softwares
+2026-04-19 19:38:30,458 [INFO] 1 vagas com Easy Apply confirmado.
+2026-04-19 19:38:30,458 [INFO] Candidatando: Desenvolvedor Integrador RM x Java @ SS Service & Softwares
+2026-04-19 19:38:36,035 [INFO]   -- Etapa 1 --
+2026-04-19 19:38:36,415 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:38:36,852 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:38:38,402 [INFO]   -- Etapa 2 --
+2026-04-19 19:38:38,535 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 19:38:39,024 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 19:38:41,223 [INFO]   -- Etapa 3 --
+2026-04-19 19:38:41,497 [INFO]     Campo "How many years of hands-on experience do you have working with AWS (EKS, EC2, IAM, S3, etc.)?" → "5"
+2026-04-19 19:38:41,694 [INFO]     Campo "How many years of hands-on experience do you have operating and building Kubernetes clusters in production?" → "5"
+2026-04-19 19:38:41,853 [INFO]     Campo "How many years of experience do you have using Python for automation, scripting, or internal tooling?" → "5"
+2026-04-19 19:38:42,337 [INFO]     Campo "This is a CLT/LFT/LCT/Código de Trabajo Employee Contract. Please enter your gross monthly salary expectation according to your country of residence." → "5000"
+2026-04-19 19:38:42,614 [INFO]     Select "Are you currently working full-time?
+Are you currently working full-time?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:38:42,831 [INFO]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:38:42,860 [WARNING]     Select "Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?
+Do you have hands-on experience using Terraform for Infrastructure as Code in a production environment?": "5" não encontrada — selecionando primeira opção
+2026-04-19 19:38:43,022 [INFO]     Select "Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?
+Have you built and maintained CI/CD pipelines (GitLab CI, Jenkins, or GitHub Actions) in a production environment?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:38:43,213 [INFO]     Select "Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?
+Are you comfortable working in a hands-on Platform/DevOps role (not consulting/advisory) with on-call responsibilities?" — opções: ['Select an option', 'Yes', 'No']
+2026-04-19 19:38:43,321 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 19:38:43,709 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 19:38:45,867 [INFO]   -- Etapa 4 --
+2026-04-19 19:38:45,928 [WARNING]   Loop detectado — mesma etapa repetindo. Encerrando formulário.
+2026-04-19 19:38:55,321 [INFO] Sessão finalizada. Total enviado: 0
+2026-04-19 19:38:57,733 [INFO] Navegador fechado.

@@ -1,0 +1,34 @@
+2026-04-19 20:14:01,654 [INFO] ============================================================
+2026-04-19 20:14:01,654 [INFO] Bot iniciado — 19/04/2026 20:14
+2026-04-19 20:14:01,655 [INFO] Palavras-chave: ['desenvolvedor', 'typescript', 'react', 'node', 'nextjs']
+2026-04-19 20:14:01,655 [INFO] Limite: 10 candidaturas
+2026-04-19 20:14:01,655 [INFO] ============================================================
+2026-04-19 20:14:01,663 [INFO] Usando EdgeDriver: .\msedgedriver.EXE
+2026-04-19 20:14:03,215 [INFO] Verificando sessão no LinkedIn...
+2026-04-19 20:14:10,627 [INFO] Sessão ativa — login não necessário.
+2026-04-19 20:14:10,628 [INFO] Buscando vagas: https://www.linkedin.com/jobs/search/?keywords=desenvolvedor&geoId=106057199&f_AL=true&f_TPR=r604800&sortBy=DD&start=0
+2026-04-19 20:14:23,823 [INFO] 25 cards na lista. Filtrando por Easy Apply e relevância...
+2026-04-19 20:14:25,452 [INFO]   Confirmado: Vaga: Desenvolvedor(a) Sênior | Anápolis @ Wooba
+2026-04-19 20:14:26,664 [INFO]   Confirmado: Desenvolvedor Integrador RM x Java @ SS Service & Softwares
+2026-04-19 20:14:27,532 [INFO] 2 vagas com Easy Apply confirmado.
+2026-04-19 20:14:27,533 [INFO] Candidatando: Vaga: Desenvolvedor(a) Sênior | Anápolis @ Wooba
+2026-04-19 20:14:33,518 [INFO]   -- Etapa 1 --
+2026-04-19 20:14:34,103 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 20:14:34,517 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 20:14:36,412 [INFO]   -- Etapa 2 --
+2026-04-19 20:14:36,697 [INFO]   Botão primário: 'avançar' | aria='avançar para próxima etapa' 
+2026-04-19 20:14:37,233 [INFO]   Clicou: AVANÇAR ('avançar')
+2026-04-19 20:14:39,660 [INFO]   -- Etapa 3 --
+2026-04-19 20:14:40,527 [INFO]     Campo "Como considera o seu perfil profissional em integração RM e Java? Junior, Pleno ou Senior?" → "Pleno"
+2026-04-19 20:14:40,721 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 20:14:41,154 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 20:14:43,444 [INFO]   -- Etapa 4 --
+2026-04-19 20:14:43,542 [WARNING]   Loop detectado — mesma etapa repetindo. Encerrando formulário.
+2026-04-19 20:14:56,781 [INFO] Candidatando: Desenvolvedor Integrador RM x Java @ SS Service & Softwares
+2026-04-19 20:15:03,106 [INFO]   -- Etapa 1 --
+2026-04-19 20:15:03,541 [INFO]   Botão primário: 'revisar' | aria='revise sua candidatura' 
+2026-04-19 20:15:04,140 [INFO]   Clicou: AVANÇAR ('revisar')
+2026-04-19 20:15:06,140 [INFO]   -- Etapa 2 --
+2026-04-19 20:15:06,246 [WARNING]   Loop detectado — mesma etapa repetindo. Encerrando formulário.
+2026-04-19 20:15:13,708 [INFO] Sessão finalizada. Total enviado: 0
+2026-04-19 20:15:16,200 [INFO] Navegador fechado.

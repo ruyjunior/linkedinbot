@@ -1,0 +1,8 @@
+2026/04/24-12:13:34.708 4e40 Reusing MANIFEST C:\Users\ruyju\Documents\dev\linkedin_bot\edge_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/04/24-12:13:34.709 4e40 Recovering log #42
+2026/04/24-12:13:34.709 4e40 Reusing old log C:\Users\ruyju\Documents\dev\linkedin_bot\edge_profile\Default\EdgeCoupons/coupons_data.db/000042.log 
+2026/04/24-12:13:34.717 416c Level-0 table #46: started
+2026/04/24-12:13:34.726 416c Level-0 table #46: 682292 bytes OK
+2026/04/24-12:13:34.727 416c Delete type=0 #42
+2026/04/24-12:13:34.728 416c Compacting 4@0 + 1@1 files
+2026/04/24-12:13:34.729 416c compacted to: files[ 4 1 1 0 0 0 0 ]
